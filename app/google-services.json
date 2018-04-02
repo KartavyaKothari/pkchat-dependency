@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "310542270140",
+    "firebase_url": "https://subschat-9b807.firebaseio.com",
+    "project_id": "subschat-9b807",
+    "storage_bucket": "subschat-9b807.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310542270140:android:c1cba48e2a4187fc",
+        "android_client_info": {
+          "package_name": "com.pshkrh.pkchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310542270140-n47of4h7v8cvq5ednkcm3vtkhb6b2q4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApoRzI22KLv_QpHWLgaitefg7Szq4XIQE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
