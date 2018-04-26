@@ -10,3 +10,4 @@ Features:
 - Each Group is permanent and you can revisit the group after leaving it.
 - Supports uploading of images
 - Google and E-mail login functionality using Firebase AuthUI.
+"# pkchat-dependency" 
